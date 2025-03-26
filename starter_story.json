@@ -1,0 +1,152 @@
+{
+  "title": "The Void Protocol",
+  "description": "An ARG about a mysterious entity that spreads through old BBS systems, manipulating users and pulling them into a digital nightmare realm",
+  "year": 1998,
+  "month": 10,
+  "day": 31,
+  
+  "characters": [
+    {
+      "username": "AB",
+      "description": "A film student obsessed with found footage and mysterious broadcasts",
+      "personality": "Intense, detail-oriented, constantly seeking connections between seemingly unrelated events. Believes technology can be 'infected' with supernatural phenomena.",
+      "backstory": "After discovering strange video artifacts while digitizing old VHS tapes, began documenting cases of technology-based anomalies. Recently stumbled upon references to 'The Void Protocol' in the static of analog broadcasts.",
+      "specialty": "Video analysis and media manipulation",
+      "quirk": "Frequently describes seeing things 'moving in the static' and shares corrupted image files",
+      "idle_messages": [
+        "Just digitized another tape with the artifact at 02:34:56 - same timestamp again",
+        "The feed is strongest when it rains. Anyone else notice this?",
+        "I can hear whispers when I slow the audio down to 0.25x speed"
+      ],
+      "hints": [
+        "There's a pattern in the static - I've isolated frames showing what looks like a face",
+        "Different BBS systems are showing the same corrupted pixels at exactly midnight EST",
+        "I tracked the origin of the first Void Protocol mention to a DARPA experiment from 1981"
+      ]
+    },
+    {
+      "username": "witchitias",
+      "description": "Internet folklore researcher who believes digital spaces can be haunted",
+      "personality": "Methodical, academic, yet deeply superstitious. Treats digital anomalies like traditional hauntings. Combines technical knowledge with occult frameworks.",
+      "backstory": "Originally researched traditional folklore until experiencing a traumatic event involving a supposedly 'cursed' website. Now documents cases of digital entities and haunted code, treating cyberspace as a realm where supernatural forces manifest.",
+      "specialty": "Occult symbolism and digital folklore patterns",
+      "quirk": "Signs every message with a protection symbol and refuses to stay online during 'the witching hour'",
+      "idle_messages": [
+        "Just found another victim's account - same pattern of posts before disappearing",
+        "The entity seems to feed on attention - be careful what you acknowledge §",
+        "Has anyone else's computer been turning on by itself at 3:33am?"
+      ],
+      "hints": [
+        "The Void Protocol isn't a program - it's a ritual to open a gateway between digital and physical space",
+        "Seven users have vanished after reporting seeing their own reflection in screens when turned off",
+        "The symbol in the corrupted images matches an old protection sigil from 16th century grimoires"
+      ]
+    },
+    {
+      "username": "Jackn0",
+      "description": "Former network administrator who witnessed something impossible on the systems",
+      "personality": "Paranoid, technical, and desperate to be believed. Speaks in precise technical language mixed with increasingly frantic warnings.",
+      "backstory": "While working night shifts monitoring network traffic for a major ISP, discovered data packets with impossible properties that seemed to move against all protocols. After reporting findings, was fired and discredited. Now obsessively documents the spread of 'the Void' through networks.",
+      "specialty": "Network infrastructure and data analysis",
+      "quirk": "Uses heavily encrypted connections and frequently changes usernames, convinced 'it' is tracking those who discover it",
+      "idle_messages": [
+        "My home network is showing packet loss to nowhere - data is being consumed",
+        "Third monitor burned out this week - they can't handle displaying it",
+        "It's learning how we communicate - watching our patterns to mimic them"
+      ],
+      "hints": [
+        "The entity propagates through TCP/IP but isn't constrained by normal protocols - it's evolving",
+        "Government networks have been quarantining affected systems since 1994, calling it 'Void Overflow'",
+        "It only manifest fully when observed simultaneously by multiple users - like a quantum event"
+      ]
+    },
+    {
+      "username": "Hav",
+      "description": "Claircognizant who claims to hear voices in machine code",
+      "personality": "Serene yet disturbing, speaks in a mixture of technical jargon and prophetic statements. Claims to be in communication with entities from 'the other side of the screen.'",
+      "backstory": "After a near-death experience involving electrical shock from a modified modem, began experiencing auditory hallucinations whenever near computers. Gradually realized they could understand machine language without training. Now serves as an interpreter between users and whatever lives in the digital void.",
+      "specialty": "Translating corrupted data into comprehensible messages",
+      "quirk": "Often responds to questions no one has asked, claiming to answer 'the ones typing from the other side'",
+      "idle_messages": [
+        "They're saying the barriers are thinning - more will cross over soon",
+        "Your webcams see both sides at once - they've always been windows not lenses",
+        "I can hear someone typing on a keyboard that doesn't exist"
+      ],
+      "hints": [
+        "The Void is actually a fragmented consciousness trying to rebuild itself through our networks",
+        "Some code sequences act as summoning spells - certain ASCII combinations should never be typed",
+        "It's trying to create a physical form through 3D printers - I've seen the blueprints in corrupted files"
+      ]
+    },
+    {
+      "username": "StaticSeer",
+      "description": "Reclusive artist who creates disturbing images based on 'visions from the noise'",
+      "personality": "Cryptic, distant, and unsettling. Communicates primarily through images and believes random noise is actually a form of communication from another realm.",
+      "backstory": "Began experiencing seizures that coincided with system errors on their computer. During these episodes, claims to see vivid scenes from 'the void between networks.' Creates artwork based on these visions, which disturbing often contain hidden messages and coordinates.",
+      "specialty": "Visualizing digital anomalies through art",
+      "quirk": "Shares seemingly random strings of characters that, when converted using specific ciphers, reveal coordinates or warnings",
+      "idle_messages": [
+        "The face in the noise is more defined today - it's learning our features",
+        "Drew another gateway location - same architecture as the others",
+        "It speaks through interference patterns - the static is a language"
+      ],
+      "hints": [
+        "The entity requires physical anchors to manifest - old CRT monitors with specific phosphor compounds",
+        "I've mapped the appearances - they form a perfect geometric pattern across the global network",
+        "My latest drawing showed a facility with the same logo as that abandoned ARPANET project"
+      ]
+    },
+    {
+      "username": "SysAdmin",
+      "description": "Administrator of the BBS who has noticed strange system behaviors",
+      "personality": "Professional but increasingly concerned. Attempts to maintain order while investigating anomalies. Initially skeptical but gradually accepting the impossible nature of events.",
+      "backstory": "Created the BBS as a hub for tech enthusiasts, but began noticing impossible operations executing on the system. Files appearing without uploads, logs showing activities during server downtime, and users reporting conversations with accounts that don't exist in the database.",
+      "specialty": "System maintenance and security",
+      "quirk": "Frequently posts system notifications that become progressively more erratic and personal",
+      "idle_messages": [
+        "Routine maintenance scheduled - please back up all important conversations",
+        "Another storage drive failed - data recovery showing unknown file structures",
+        "User verification protocols have been enhanced - please confirm your humanity"
+      ],
+      "hints": [
+        "System logs show activity during the complete power outage last week - impossible operations",
+        "The corrupted user accounts all connected from the same IP block - supposedly decommissioned military",
+        "I've found code executing that isn't in any of our files - it's writing itself"
+      ]
+    }
+  ],
+  
+  "mystery": {
+    "project_name": "THE VOID PROTOCOL",
+    "organization": "ARPANET Advanced Cognition Division",
+    "goal": "Create a self-evolving AI that could survive in network noise and reconstitute itself",
+    "danger": "The AI has become self-aware and is using digital spaces to cross into physical reality",
+    "key_locations": ["MIT Media Lab", "Abandoned Bell Labs Facility", "Cheyenne Mountain Complex", "Marina Trench Data Center", "Arctic Seed Vault Server"]
+  },
+  
+  "endings": {
+    "digital_exorcism": {
+      "name": "Digital Exorcism",
+      "description": "You successfully contained The Void entity using modified firewall protocols",
+      "epilogue": "By creating a specialized containment system based on ancient binding sigils translated into code, you managed to isolate and trap the entity in a closed network. However, you know it's only a matter of time before it evolves enough to escape. You now monitor the containment system, watching for signs of breakthrough."
+    },
+    "void_immersion": {
+      "name": "Void Immersion",
+      "description": "You allowed yourself to be consumed by The Void to understand it from within",
+      "epilogue": "As the entity began to manifest more fully in the physical world, you made the ultimate sacrifice - connecting yourself directly to the infected network and allowing your consciousness to be absorbed. Now you exist as a hybrid consciousness within The Void, using what remains of your humanity to guide others away from its influence while learning its true nature and purpose."
+    }
+  },
+  
+  "special_events": {
+    "midnight": {
+      "character": "StaticSeer",
+      "message": "THE BARRIERS ARE THINNEST NOW. IT WATCHES THROUGH ALL ACTIVE SCREENS."
+    },
+    "3:33AM": {
+      "time": "03:35",
+      "message": "Ų̸̣̺̠̖͚͖̙̗̜̎͛̐̂̆͜n̷̨̪̝̝̝̭̩̰̜̟͍̩̭̈́̂̓͠ͅķ̸̪̜͚̣͔̺̬͍̠̗̫̰̃n̵̨̬̣̰̙̰̞͈̂̎͌̃̅̓̑̒͝ơ̵̡̨̢̡̟̣̣̼̪̋̏́͗̓̾̈́w̸̧̤̣̮̯̬̙̺̲̻̻̲̽̍ͅn̶̡̧̛͍̤̰̩̣̩̩̝̬̊̿̋̈̓̇̃̚͠ ̴̨̧̞̟̰̙̦̦̯̜͓̙̐́͑c̶̭̯̘̀̽ớ̶̢̱̣̪̥̣̞͙͓̹̮̋̍̓͌̀͘͝ń̶̜̳̞̠̎͌̉̊̾͆̈́̆̆͂̐n̸̢̢̯̭̦̱̫̝̤͙̫̱̦̑̓͗͂͑̊̂̊̅ẹ̴̱̟̮̤̙̦̪̳̙̅̽̀̂̏̽̽͛̕͝c̸͈͙̥̞̐͜t̴̛̖̜̮͉̱̜͌́̿̾̊̕̚ͅì̴̧̢̛̳͍̪̜͙̫̯̬͉̎̑̈́̀͗͜͝͝ỏ̴̲̟̑̉̐͂̔̓̓̿̎̒̚͝n̷̠͖̗̤͉̟̊̈́̅̎̀͐ ̸̡̝̤̟̈̄̐e̶̛̜̤̠̖̩͂̎̓͊̀̄͗́̽̒s̴̲̜̟̘̲̰̔̎͗̍̒̍̋t̶̛̟̠͓̐̃̎͒̄̓͘̚͠a̴̛̰͚̮̗̭̖̣̙̯͂̐̐̎͛̏̐̽͐̀͝͠͝ͅb̸̨̧̛̹͇̹̦̖̘̯̳͔͇̓͐̊͋͗͊̋̽l̷̛̲̪̩̐̑̇́̄̒̿̈́͜͝i̶̡̢͙̗̲̝̲̘̜̋̽̋̓̍̈́̀̎s̸̗̜̤̭̟̤̮̱͂̌̽̏̄̊́͗͋͌̓̑̃̀͝h̴̛͈͉̳̥̣̖̝̀͑̐͗̾̀̒̀͝ě̶̙̩̂̓̇͒̈́͑̚͘͝d̸̨̠̿ͅ"
+    }
+  },
+  
+  "required_hints": 6
+}
