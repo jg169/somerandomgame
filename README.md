@@ -58,6 +58,6 @@ The game will connect to your local Ollama server, which handles all the AI char
 
 - On your terminal, use the Homebrew theme for mac by going to shell (top left) --> New window with profile: --> select homebrew from the menu. 
 
-- Play the background noise: [ambiance](https://www.youtube.com/watch?v=tmlZeYnfw7g) 
+- Play the background noise: [ambiance](https://www.youtube.com/watch?v=RNrVhrXrCNA) 
 It helps with the vibe. 
 
